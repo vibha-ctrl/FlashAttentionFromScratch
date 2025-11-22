@@ -1,5 +1,5 @@
 # FlashAttentionFromScratch
-Read this paper: https://arxiv.org/abs/2205.14135. 
+Read this paper: https://arxiv.org/abs/2205.14135. My attempt at implementing from scratch.
 
 tldr
 
